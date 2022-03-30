@@ -1,0 +1,41 @@
+body{
+    background-color: #3B3A3A;
+}
+
+#title{
+    color: #F24824;
+    text-align: center;
+    font-size: 100px;
+}
+
+#primary{
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    color: #E3D5D3;
+}
+#secondary{
+    font-size: 36px;
+    text-align: center;
+    position: relative;
+    color: #E3D5D3;
+}
+
+#name{
+    font-style: italic;
+    font-size: 40px;
+    color:red;
+    text-align: center;
+    position: relative;
+}
+#date{
+    font-style: italic;
+    font-size: 40px;
+    color:red;
+    text-align: center;
+    position: relative;  
+}
+#img{
+    text-align: center;
+    position: relative;
+}
